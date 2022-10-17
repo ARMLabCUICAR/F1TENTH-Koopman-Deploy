@@ -1,4 +1,4 @@
-# Deep Koopman Representation of Control for autonomous driving in F1TENTH Simulation Environment
+# Deep Koopman Representation of Control for Autonomous Driving in F1TENTH Simulation Environment
 # Overview
 This repository offer 3 different controllers to fulfill autonomous vehicle control: Pure pursuit, nonlinear model predictive control and deep koopman model predictive control.
 
